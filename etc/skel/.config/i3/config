@@ -420,7 +420,7 @@ bindsym Print exec --no-startup-id scrot 'ArcoLinux-%Y-%m-%d-%s_screenshot_$wx$h
 
 for_window [class="Imagewriter"] floating enable
 for_window [class="Font-manager"] floating enable
-for_window [class="qt5ct|Lxappearance] floating enable
+for_window [class="qt5ct|Lxappearance"] floating enable
 for_window [class="Nitrogen"] floating enable
 for_window [class="Pavucontrol"] floating enable
 
